@@ -2,3 +2,5 @@
 Tic-Tac-Toe with Python
 
 Optimization Homework
+
+Minimax Method
